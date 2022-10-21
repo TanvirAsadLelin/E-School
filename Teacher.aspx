@@ -1,4 +1,4 @@
-﻿<%@ Page Title="...." Language="C#" MasterPageFile="~/Main.master" AutoEventWireup="true" CodeFile="Teacher.aspx.cs" Inherits="Teacher" %>
+﻿<%@ Page Title="শিক্ষকগণ" Language="C#" MasterPageFile="~/Main.master" AutoEventWireup="true" CodeFile="Teacher.aspx.cs" Inherits="Teacher" %>
 
 <asp:Content ID="content1" runat="server" ContentPlaceHolderID="mainMenu">
     <li class="menu-item "><a href="Default.aspx"><i class="fa fa-home"></i></a></li>
@@ -40,7 +40,7 @@
                 <div class="fullwidth-block inner-content">
                     <div class="container">
                         <div class="fullwidth-content">
-                            <p class="leading">বিদ্যালয় একটি অনলাইন ভিত্তিক স্কুল। এই ওয়েব সাইটটি প্রাকপ্রাথমিক শিক্ষা  থেকে শুরু করে উচ্চ মাধ্যমিক শিক্ষা পর্যন্ত বিষয়  ভিত্তিক টিউটোরিয়াল এবং লেকচার ডকুমেন্টস প্রদান করবে। এছাড়াও থাকছে প্রতি টিউটোরিয়াল শেষ করার পর অনলাইন পরীক্ষা দেওয়ার সুযোগ। আমারদের শিক্ষকগণ সবসময় ছাত্রদের  আনন্দের সাথে, ভালো পড়াশোনা পরিবেশন করেন। </p>
+                            <p class="leading">"বিদ্যালয়" একটি অনলাইন ভিত্তিক শিক্ষা প্ৰতিষ্ঠান।এই ওয়েব সাইটটি প্রাকপ্রাথমিক শিক্ষা থেকে শুরু করে উচ্চ মাধ্যমিক শিক্ষা পর্যন্ত বিষয় ভিত্তিক টিউটোরিয়াল এবং লেকচার ডকুমেন্টস প্রদান করবে। এছাড়াও থাকছে প্রতি টিউটোরিয়াল শেষ করার পর অনলাইন পরীক্ষা দেওয়ার সুযোগ। আমাদের শিক্ষকগণ সবসময় ছাত্রদের আনন্দের সাথে, ভালো পড়াশোনা পরিবেশন করেন।</p>
                             <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>
 
 

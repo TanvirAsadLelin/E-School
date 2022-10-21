@@ -15,31 +15,31 @@
                             <ul class="slides">
                                 <li>
                                     <div class="slide-caption">
-                                        <h2 class="slide-title">আমি শিখতে ভালোবাসি!</h2>
+                                        <h2 class="slide-title">আমি শিখতে ভালোবাসি।</h2>
                                             <br>                                         
                                         <p> "শিক্ষা আমাদের নিজস্ব অজ্ঞতার একটি প্রগতিশীল আবিষ্কার।" - উইল ডুরান্ট</p>                                       
                                         <p>একটি বই, একটি কলম, একটি শিশু এবং একজন শিক্ষক; বিশ্বকে পরিবর্তন করতে পারে।</p>
-                                        <a href="SignUp.aspx" class="button primary large">Learn more</a>
+                                      
                                     </div>
-                                    <img src="dummy/kid.png" alt="">
+                                        <img src="dummy/kid.png" alt="Slide Image" />
                                 </li>
                                 <li>
                                     <div class="slide-caption">
-                                        <h2 class="slide-title">আমি পড়তে ভালোবাসি!</h2>
+                                        <h2 class="slide-title">আমি পড়তে ভালোবাসি।</h2>
                                             <br>
                                         <p>"শিক্ষা সুযোগ দ্বারা অর্জন করা যায় না, এটি অবশ্যই ব্যগ্রতা এবং পরিশ্রমের সাথে অনুসন্ধান করা উচিত।" - অ্যাবিগাইল অ্যাডামস</p>
-                                        <a href="#" class="button primary large">Learn more</a>
+                                        
                                     </div>
-                                    <img src="dummy/kid.png" alt="">
+                                         <img src="dummy/kid.png" alt="Slide Image" />
                                 </li>
                                 <li>
                                     <div class="slide-caption">
-                                        <h2 class="slide-title">শিক্ষা সবচেয়ে ভাল বন্ধু! </h2>
+                                        <h2 class="slide-title">শিক্ষা সবচেয়ে ভাল বন্ধু </h2>
                                             <br>
-                                        <p>"জ্ঞানই শক্তি. তথ্য মুক্ত হচ্ছে। শিক্ষা প্রতিটি সমাজের, প্রতিটি পরিবারের অগ্রগতির ভিত্তি।" - কোফি আনা</p>
-                                        <a href="SignUp.aspx" class="button primary large">Learn more</a>
+                                        <p>"জ্ঞানই শক্তি. তথ্য মুক্ত হচ্ছে। শিক্ষা প্রতিটি সমাজের, প্রতিটি পরিবারের অগ্রগতির ভিত্তি।" - কোফি আনান</p>
+                                       
                                     </div>
-                                    <img src="dummy/kid.png" alt="">
+                                 <img src="dummy/kid.png" />
                                 </li>
                             </ul>
                             <!-- .slides -->
@@ -59,22 +59,22 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-4">
-                                <h2 class="section-title"><i class="icon-newspaper"></i>Latest News</h2>
+                                <h2 class="section-title"><i class="icon-newspaper"></i>শিক্ষা-সংক্রান্ত তথ্যাদি</h2>
                                 <ul class="posts">
                                     <li class="post">
-                                        <h3 class="entry-title"><a href="#">Nostrud exercitation ullamco</a></h3>
-                                        <span class="date"><i class="icon-calendar"></i>6 APR 2014</span>
-                                        <span class="author"><i class="icon-user"></i>Marco Baletti</span>
+                                        <h3 class="entry-title"><a href="#">প্রাথমিক শিক্ষা</a></h3>
+                                        <span class="date"><i class="icon-calendar"></i>...</span>
+                                        <span class="author"><i class="icon-user"></i>......</span>
                                     </li>
                                     <li class="post">
-                                        <h3 class="entry-title"><a href="#">Nostrud exercitation ullamco</a></h3>
-                                        <span class="date"><i class="icon-calendar"></i>6 APR 2014</span>
-                                        <span class="author"><i class="icon-user"></i>Marco Baletti</span>
+                                        <h3 class="entry-title"><a href="#">মাধ্যমিক শিক্ষা </a></h3>
+                                        <span class="date"><i class="icon-calendar"></i>.......</span>
+                                        <span class="author"><i class="icon-user"></i>.........</span>
                                     </li>
                                     <li class="post">
-                                        <h3 class="entry-title"><a href="#">Nostrud exercitation ullamco</a></h3>
-                                        <span class="date"><i class="icon-calendar"></i>6 APR 2014</span>
-                                        <span class="author"><i class="icon-user"></i>Marco Baletti</span>
+                                        <h3 class="entry-title"><a href="#">উচ্চ মাধ্যমিক শিক্ষা </a></h3>
+                                        <span class="date"><i class="icon-calendar"></i>........</span>
+                                        <span class="author"><i class="icon-user"></i>..........</span>
                                     </li>
                                 </ul>
                                 <p class="text-center">
@@ -82,20 +82,20 @@
                                 </p>
                             </div>
                             <div class="col-md-4">
-                                <h2 class="section-title"><i class="icon-calendar-lg"></i>Upcoming Events</h2>
+                                <h2 class="section-title"><i class="icon-calendar-lg"></i>ভবিষ্যৎ কার্যক্রমের তালিকা</h2>
                                 <ul class="posts">
                                     <li class="post">
-                                        <h3 class="entry-title"><a href="#">Nostrud exercitation ullamco</a></h3>
+                                        <h3 class="entry-title"><a href="#">বিষয় ভিত্তিক টিউটোরিয়াল প্রদান</a></h3>
+                                        <span class="date"><i class="icon-calendar"></i>6 APR 2014</span>
+                                        <span class="location"><i class="icon-map-marker"></i>..............</span>
+                                    </li>
+                                    <li class="post">
+                                        <h3 class="entry-title"><a href="#">বিষয় ভিত্তিক সাজেশন প্রদান</a></h3>
                                         <span class="date"><i class="icon-calendar"></i>6 APR 2014</span>
                                         <span class="location"><i class="icon-map-marker"></i>Yankee Stadium</span>
                                     </li>
                                     <li class="post">
-                                        <h3 class="entry-title"><a href="#">Nostrud exercitation ullamco</a></h3>
-                                        <span class="date"><i class="icon-calendar"></i>6 APR 2014</span>
-                                        <span class="location"><i class="icon-map-marker"></i>Yankee Stadium</span>
-                                    </li>
-                                    <li class="post">
-                                        <h3 class="entry-title"><a href="#">Nostrud exercitation ullamco</a></h3>
+                                        <h3 class="entry-title"><a href="#">অনলাইন পরীক্ষার ব্যবস্থা</a></h3>
                                         <span class="date"><i class="icon-calendar"></i>6 APR 2014</span>
                                         <span class="location"><i class="icon-map-marker"></i>Yankee Stadium</span>
                                     </li>
