@@ -9,45 +9,79 @@
     <li class="menu-item "><a href="Contact.aspx">যোগাযোগ ও মতামত</a></li>
 </asp:Content>
 <asp:Content ID="content3" runat="server" ContentPlaceHolderID="homeSlider">
-      <div class="home-slider">
-                    <div class="container">
-                        <div class="slider">
-                            <ul class="slides">
-                                <li>
+    <div class="home-slider">
+        <div class="container">
+            <div class="slider">
+                <ul class="slides">
+                    <li>
+                        <table>
+                            <tr>
+                                <td>
                                     <div class="slide-caption">
+
                                         <h2 class="slide-title">আমি শিখতে ভালোবাসি।</h2>
-                                            <br>                                         
-                                        <p> "শিক্ষা আমাদের নিজস্ব অজ্ঞতার একটি প্রগতিশীল আবিষ্কার।" - উইল ডুরান্ট</p>                                       
+                                        <br>
+                                        <p>"শিক্ষা আমাদের নিজস্ব অজ্ঞতার একটি প্রগতিশীল আবিষ্কার।" - উইল ডুরান্ট</p>
                                         <p>একটি বই, একটি কলম, একটি শিশু এবং একজন শিক্ষক; বিশ্বকে পরিবর্তন করতে পারে।</p>
-                                      
+
                                     </div>
-                                        <img src="dummy/kid.png" alt="Slide Image" />
-                                </li>
-                                <li>
+                                </td>
+
+                                <td>
+                                    <img src="dummy/banner.png" />
+                                </td>
+                            </tr>
+                        </table>
+
+
+
+                    </li>
+                    <li>
+                        <table>
+                            <tr>
+                                <td>
                                     <div class="slide-caption">
                                         <h2 class="slide-title">আমি পড়তে ভালোবাসি।</h2>
-                                            <br>
+                                        <br>
                                         <p>"শিক্ষা সুযোগ দ্বারা অর্জন করা যায় না, এটি অবশ্যই ব্যগ্রতা এবং পরিশ্রমের সাথে অনুসন্ধান করা উচিত।" - অ্যাবিগাইল অ্যাডামস</p>
-                                        
+
                                     </div>
-                                         <img src="dummy/kid.png" alt="Slide Image" />
-                                </li>
-                                <li>
+                                </td>
+
+                                <td>
+                                    <img src="dummy/banner.png" />
+                                </td>
+                            </tr>
+                        </table>
+
+
+                    </li>
+                    <li>
+
+                        <table>
+                            <tr>
+                                <td>
                                     <div class="slide-caption">
-                                        <h2 class="slide-title">শিক্ষা সবচেয়ে ভাল বন্ধু </h2>
-                                            <br>
-                                        <p>"জ্ঞানই শক্তি. তথ্য মুক্ত হচ্ছে। শিক্ষা প্রতিটি সমাজের, প্রতিটি পরিবারের অগ্রগতির ভিত্তি।" - কোফি আনান</p>
-                                       
+                                        <h2 class="slide-title">শিক্ষা সবচেয়ে ভাল বন্ধু।</h2>
+                                        <br>
+                                        <p>"জ্ঞানই শক্তি, তথ্য মুক্ত হচ্ছে। শিক্ষা প্রতিটি সমাজের, প্রতিটি পরিবারের অগ্রগতির ভিত্তি।" - কোফি আনান</p>
+
                                     </div>
-                                 <img src="dummy/kid.png" />
-                                </li>
-                            </ul>
-                            <!-- .slides -->
-                        </div>
-                        <!-- .slider -->
-                    </div>
-                    <!-- .container -->
-                </div>
+                                </td>
+
+                                <td>
+                                    <img src="dummy/banner.png" />
+                                </td>
+                            </tr>
+                        </table>
+                    </li>
+                </ul>
+                <!-- .slides -->
+            </div>
+            <!-- .slider -->
+        </div>
+        <!-- .container -->
+    </div>
 </asp:Content>
 
 <asp:Content ID="content2" runat="server" ContentPlaceHolderID="head">
@@ -146,12 +180,14 @@
                                         <div class="field">
                                             <label for="email">Email Address:</label>
                                             <div class="control">
-                                                <input type="text" id="email" placeholder="example@mail.com"></div>
+                                                <input type="text" id="email" placeholder="example@mail.com">
+                                            </div>
                                         </div>
                                         <div class="field">
                                             <label for="name">Your name:</label>
                                             <div class="control">
-                                                <input type="text" id="name" placeholder="John Smith"></div>
+                                                <input type="text" id="name" placeholder="John Smith">
+                                            </div>
                                         </div>
                                         <div class="field">
                                             <label for="interest">Campus of Interest</label>
